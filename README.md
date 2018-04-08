@@ -1,2 +1,2 @@
-# youquer.github.io
-主页
+# YouQuer
+有趣儿
